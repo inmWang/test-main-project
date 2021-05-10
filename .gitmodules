@@ -1,0 +1,4 @@
+
+[submodule "src/pages/vote"]
+	path = src/pages/vote
+	url = git@github.com:inmWang/test-lib.git
